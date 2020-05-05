@@ -1,6 +1,6 @@
 """ Simple calculator program """
 
-"""functions of Operators"""
+"""Start of functions of Operators"""
 
 
 def add(num1, num2):
@@ -19,7 +19,7 @@ def div(num1, num2):
     return num1 / num2
 
 
-"""functions of Operators"""
+"""End of functions of Operators"""
 
 
 print("Select the operation- \n"
